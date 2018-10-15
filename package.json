@@ -1,13 +1,12 @@
 {
-	"name": "rev-path",
-	"version": "2.0.0",
+	"name": "rev-path-diy",
+	"version": "1.0.0",
 	"description": "Create a revved file path",
 	"license": "MIT",
-	"repository": "sindresorhus/rev-path",
+	"repository": "diyxiaoshitou/rev-path",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"name": "diyxiaoshitou",
+		"email": "diyxiaoshitou@gmail.com",
 	},
 	"engines": {
 		"node": ">=4"
